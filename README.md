@@ -1,7 +1,6 @@
-<!-- Banner image (możesz podmienić na swój własny plik lub link do grafiki) -->
+<!-- Banner image -->
 <p align="center">
-  <img src="[630a1e02-5275-4892-9a35-e9bf83ebd82a](https://github.com/user-attachments/assets/df8839cf-65ad-48d1-96d5-3ed07ba28cce)
-?auto=format&fit=crop&w=800&q=80" alt="Banner" width="100%" style="border-radius: 12px;">
+  <img src="https://github.com/user-attachments/assets/fef880c6-dc21-4757-8a1c-45a0cf1914ee/630a1e02-5275-4892-9a35-e9bf83ebd82a" alt="Banner" width="100%" style="border-radius: 12px;">
 </p>
 
 <h1 align="center">Hi, I'm exiv703! 👋</h1>
@@ -30,14 +29,13 @@
 ## 🚀 Projects
 
 - [**Velvet Sentinel**](https://github.com/exiv703/velvet) – Modern file monitoring & recovery tool for Windows
-- [**AnotherProject**](https://github.com/exiv703/another-project) – Short description of another project
 
 ---
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com](mailto:exiv.sound.engineer@gmail.com
-)
+- Email: [exiv.sound.engineer@gmail.com
+(mailto:your.email@example.co)
 
 ---
 
