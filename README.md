@@ -1,6 +1,7 @@
 <!-- Banner image (możesz podmienić na swój własny plik lub link do grafiki) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" alt="Banner" width="100%" style="border-radius: 12px;">
+  <img src="[630a1e02-5275-4892-9a35-e9bf83ebd82a](https://github.com/user-attachments/assets/df8839cf-65ad-48d1-96d5-3ed07ba28cce)
+?auto=format&fit=crop&w=800&q=80" alt="Banner" width="100%" style="border-radius: 12px;">
 </p>
 
 <h1 align="center">Hi, I'm exiv703! 👋</h1>
@@ -35,8 +36,8 @@
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Email: [your.email@example.com](mailto:exiv.sound.engineer@gmail.com
+)
 
 ---
 
