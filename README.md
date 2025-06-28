@@ -1,6 +1,7 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fef880c6-dc21-4757-8a1c-45a0cf1914ee/630a1e02-5275-4892-9a35-e9bf83ebd82a" alt="Banner" width="100%" style="border-radius: 12px;">
+![630a1e02-5275-4892-9a35-e9bf83ebd82a](https://github.com/user-attachments/assets/45e40def-a441-4a5f-be44-d7b833d8edd4)
+
 </p>
 
 <h1 align="center">Hi, I'm exiv703! 👋</h1>
@@ -34,8 +35,7 @@
 
 ## 📫 How to reach me
 
-- Email: [exiv.sound.engineer@gmail.com
-(mailto:your.email@example.co)
+- Email: exiv.sound.engineer@gmail.com
 
 ---
 
