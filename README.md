@@ -27,7 +27,8 @@
 
 ## 🚀 Projects
 
-- [**Velvet Sentinel**](https://github.com/exiv703/velvet_sentinel) – Modern file monitoring & recovery tool for Windows
+- [**ShieldEye**](https://github.com/exiv703/Shield-Eye) – Modern, user-friendly vulnerability scanner designed for local businesses
+- [**ShieldEye-ComplianceScan**](https://github.com/exiv703/-ShieldEye-ComplianceScan) – Asynchronous Scanning: Responsive, multi-threaded architecture
 
 ---
 
