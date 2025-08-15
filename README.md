@@ -29,7 +29,8 @@
 
 - [**ShieldEye**](https://github.com/exiv703/Shield-Eye) – Modern, user-friendly vulnerability scanner designed for local businesses
 - [**ShieldEye-ComplianceScan**](https://github.com/exiv703/-ShieldEye-ComplianceScan) – Asynchronous Scanning: Responsive, multi-threaded architecture
-- **AI-Powered Secure Code Reviewer** - Soon...
+- [**NeuralScan**](https://github.com/exiv703/NeuralScan) – AI-Powered Secure Code Reviewer
+
 ---
 
 ## 📫 How to reach me
