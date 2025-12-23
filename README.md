@@ -16,11 +16,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-7B3FF2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUSTOMTKINTER-A259F7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TKINTER-9D4EDD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WINDOWS-7B3FF2?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-A259F7?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-9D4EDD?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINUX-A259F7?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GTK-9D4EDD?style=for-the-badge&logo=gtk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-7B3FF2?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-A259F7?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-9D4EDD?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-7B3FF2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REDIS-A259F7?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-9D4EDD?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-7B3FF2?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
