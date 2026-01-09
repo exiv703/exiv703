@@ -42,9 +42,9 @@
 ## 🚀 Projects
 
 - [**ShieldEye SurfaceScan**](https://github.com/exiv703/ShieldEye-SurfaceScan) – AI‑assisted **frontend security scanner** with a desktop GUI (Playwright, Node.js, Python, Docker).
-- [**NeuralScan**](https://github.com/exiv703/NeuralScan) – AI‑powered secure code reviewer for quickly analysing existing codebases.
-- [**ShieldEye**](https://github.com/exiv703/Shield-Eye) – modern, user‑friendly vulnerability scanner designed for local businesses (earlier generation of the idea).
-- [**ShieldEye-ComplianceScan**](https://github.com/exiv703/-ShieldEye-ComplianceScan) – asynchronous compliance‑oriented scanner with responsive, multi‑threaded architecture.
+- [**ShieldEye NeuralScan**](https://github.com/exiv703/NeuralScan) – AI‑powered secure code reviewer for quickly analysing existing codebases.
+- [**ShieldEye Core**](https://github.com/exiv703/Shield-Eye) – modern, user‑friendly vulnerability scanner designed for local businesses (earlier generation of the idea).
+- [**ShieldEye ComplianceScan**](https://github.com/exiv703/-ShieldEye-ComplianceScan) – asynchronous compliance‑oriented scanner with responsive, multi‑threaded architecture.
 
 ---
 
