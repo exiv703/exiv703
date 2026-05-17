@@ -58,7 +58,7 @@
 
 ## 📫 How to reach me
 
-- Email: [exiv.sound.engineer@gmail.com](mailto:exiv.sound.engineer@gmail.com)  
+- Email: [uduwiduajhd@gmail.com](mailto:exiv.sound.engineer@gmail.com)  
 - GitHub: [exiv703](https://github.com/exiv703)
 
 ---
